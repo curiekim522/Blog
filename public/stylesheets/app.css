@@ -1,0 +1,64 @@
+.header {
+    font-size: 1.3em;
+}
+
+.ui.header {
+    color: #152238;
+}
+
+.ui.editForm {
+    background: #fbfbfb;
+}
+
+.ui.inverted.menu {
+    background: #152238;
+}
+
+.ui.button.editBtn {
+    background-color: transparent;
+    font-weight: 400;
+    text-transform: none;
+    text-shadow: none;
+    box-shadow: 0 0 0 1px #1b1c1d;
+    color: #1b1c1d;
+    border-radius: .28571429rem;
+}
+
+.ui.button.editBtn:hover {
+    background-color: #86857e;
+    box-shadow: 0 0 0 1px #86857e;
+    color: #fff;
+}
+
+.main.container {
+    margin-top: 6.0em;
+}
+
+.ui.menu .item {
+    padding-right: 1.5em;
+}
+
+.ui.segment:last-child {
+    margin-bottom: 3.0em;
+}
+
+.ui.large.buttons .button, .ui.large.buttons .or {
+    font-size: 0.8rem;
+    margin: 0 auto;
+    display: block;
+}
+
+#delete {
+    display: inline;
+}
+
+.description {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.date {
+    font-size: 0.8em;
+    color: #666666;
+}
